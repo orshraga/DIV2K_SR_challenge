@@ -149,12 +149,12 @@ def compare_models_examples(model1, model2, dataset, device='cuda', threshold_go
 
         plt.subplot(1,4,2)
         plt.imshow(sr1.squeeze().numpy(), cmap='gray')
-        plt.title('Residual SR')
+        plt.title('Model A SR')
         plt.axis('off')
 
         plt.subplot(1,4,3)
         plt.imshow(sr2.squeeze().numpy(), cmap='gray')
-        plt.title('Ablation SR')
+        plt.title('Model B SR')
         plt.axis('off')
 
         plt.subplot(1,4,4)
