@@ -1,0 +1,12 @@
+torch
+torchvision
+pytorch-lightning
+piq
+scikit-learn
+pillow
+tqdm
+opencv-python
+matplotlib
+scikit-image
+piq
+kaggle
