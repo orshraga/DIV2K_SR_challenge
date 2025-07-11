@@ -22,7 +22,7 @@ from plot import (
 )
 
 
-from model_ab import ESPCNLightning_YChannel
+from model import ESPCNLightning_YChannel
 from utils import set_seed, seed_worker
 from eval import evaluate_model_ycbcr, compare_models_examples
 from data import (
