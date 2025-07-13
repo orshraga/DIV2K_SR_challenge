@@ -1,10 +1,8 @@
-# DIV2K_SR_chalge
-Final project - ESPCN Super Resolution models and ablation study
 # DIV2K Super Resolution Challenge
 
 ### Deep Learning and its Applications to Signal and Image Processing and Analysis
 **Course:** 361.2.1120  
-**Final Project**  
+**Final project - ESPCN Super Resolution models and ablation study**  
 # Authors:   Or Shraga , Gal Apple
 ---
 
